@@ -5,8 +5,11 @@ Ideation for an ethereal / nostalgic / texturing plugin
 A flexible plugin which focuses on processing noise signals into a phase distortion to give more glued / natural texturing to the input signal
 
 - Noise texturing section with layers
-  - Potential to create neural network that runs on different types of noise samples and generate unique noise textures live
+  - 2D XY Grid that contains "points" of dimension reductions of different audio samples in an XY space
+  - Train a neural network that runs on different types of noise samples and generate unique noise textures live, the input vectors for them will be the 2d positions on the XY space
     - Possibly provide your own noise samples live, and auto generate similar textures
+  - Give an option to either flip between neural generated noise textures, or direct audio files
+  - Maybe blend between the closest points in the XY plane to modulate through?
   - Multi sample noise layer blending
   - Examples:
     - Several types of cassette white noise hiss
