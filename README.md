@@ -48,3 +48,6 @@ A flexible plugin which focuses on processing noise signals into a phase distort
 - Different colour palettes and patterns for different presets
 - Interpolate between different plugin options for the visuals which could be rendered with raw glsl or be a 3d rendered thing
 - I think a really cool dynamic environment would be really pretty but make the effort of the plugin 1000x
+
+
+https://youtu.be/IET33sxcaRY
