@@ -25,6 +25,9 @@ A flexible plugin which focuses on processing noise signals into a phase distort
     - Water being poured in the sink
     - Rain / Thunder / Weather activity
     - Loud Wind
+    - Rainforest noises
+    - Geological noise / Geophony / Geothermal movement
+    - Space background radiation
     - Radio AM Interference
     - Radio EM Noise / interference when on wrong channel
     - Custom processed noise textures with various filters
