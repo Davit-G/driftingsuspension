@@ -17,6 +17,7 @@ A flexible plugin which focuses on processing noise signals into a phase distort
     - Vinyl crackle
     - Car traffic
     - Waves of ocean
+    - Underwater bubbly noises
     - PWM interference from spinning motor
     - Vintage gear analog noise / hiss
     - Leaves crunching foley
