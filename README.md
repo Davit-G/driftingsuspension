@@ -55,3 +55,9 @@ A flexible plugin which focuses on processing noise signals into a phase distort
 
 
 https://youtu.be/IET33sxcaRY
+
+
+# Datasets
+- https://labs.freesound.org/apps/2018/04/01/freesound-datasets.html
+- https://freesound.org/docs/api/overview.html
+- Various sample packs
