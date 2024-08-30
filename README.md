@@ -60,4 +60,5 @@ https://youtu.be/IET33sxcaRY
 # Datasets
 - https://labs.freesound.org/apps/2018/04/01/freesound-datasets.html
 - https://freesound.org/docs/api/overview.html
+- https://research.google.com/audioset/ontology/index.html
 - Various sample packs
