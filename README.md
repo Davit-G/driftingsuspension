@@ -43,6 +43,7 @@ A flexible plugin which focuses on processing noise signals into a phase distort
 - Phase Distortion with generated noise as the modulator to provide more detailed 'erosion' texture
 - Phase distortion also provides options for wow - flutter pitch bend artifacts
   - Varying functions like perlin / S&H / Lagrange for different kinds of pitch bend artifacts
+  - Option to use envelope follower to increase / decrease intensity from input amplitude
   - Stereo option to provide chorusing effect
   - Chorusing with stereo noise as well?
 - Light Waveshaping Distortion / Clipping as a postprocessing effect to tame transient material
